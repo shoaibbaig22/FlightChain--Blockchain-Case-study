@@ -1,2 +1,12 @@
 # FlightChain--Blockchain-Case-study
 A comprehensive case study on the technical feasibility and governance barriers of the aviation industry's FlightChain pilot.
+# Decentralising the Skies: FlightChain Case Study## Project Overview
+This project analyzes the FlightChain pilot, a proof-of-concept permissioned blockchain tested by British Airways, SITA, and partner airlines between 2017 and 2019 at Heathrow, Geneva, and Miami. The primary objective was to determine if blockchain technology could generate a single source of truth regarding flight data to reduce operational and compensation disputes.   
+## Key FindingsTechnical Feasibility: 
+The pilot successfully processed over 2 million flight changes, proving that blockchain can harmonize disaggregated flight information. The Governance Paradox: Despite technical success, the project failed to achieve operational adoption due to unclear governance ownership, maintenance fee structures, and the right to arbitration in a competitive, hostless market. Legal Gaps: While smart contracts effectively automated the arbitrage of data, they lack legal enforceability in the industry, creating a significant barrier to commercial adoption.   
+## Methodology
+Our research utilised a strict Triangulation Methodology to cross-verify claims. We synthesized and compared data across four categories: Company Documents (Primary Data): SITA Lab white papers, GitHub repositories, and press releases. Governing Authorities: Guidelines from IATA, ACI, and TRB. Trade & Media Sources: Fintech news and aviation trade journals. Academic Reviews: Peer-reviewed journals and legal reviews regarding privacy, security, and smart contract liability.   
+## Strategic RecommendationsCross-Industry Management: 
+Establish centralized standards orchestrated by neutral custodians like IATA or ACI to govern the decentralized technology. Hybrid Architectures: Transition to hybrid blockchain-API architectures for near-term feasibility. Regulatory Alignment: Engage regulators during the design phase to ensure smart contracts are legally recognized.
+## Team
+Muhammad Shoaib Baig (Project Lead, Timeline & Methodology Organization), Niraj Joshi (Slide Design & Visualisation) Syed Miqdad Hamdani (Presentation Structure & Business Context), Mohammed Uzair Sakilbhai Patel (Case Background & Factual Research), Mohammed Fahad (Solutions, Recommendations & Future Prospects), Hasan Ali (Evidence Analysis, Triangulation Findings & Critical Discussion)   
